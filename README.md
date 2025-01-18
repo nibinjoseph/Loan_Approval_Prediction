@@ -4,7 +4,7 @@
 The objective of this project is to develop a machine learning model that predicts the loan approval status for a customer's loan application. The goal is to help financial institutions minimize the risk of potential defaults and ensure that approved loans are more likely to be repaid.
 
 ## Dataset
-The dataset used for this project is from one of the competition datasets on [Kaggle](https://www.kaggle.com). It contains a total of 97,742 rows and 13 dimensions. The data is split into two datasets:
+The dataset used for this project is from one of the competition datasets on [Kaggle]([https://www.kaggle.com](https://www.kaggle.com/competitions/playground-series-s4e10/data?select=test.csv)). It contains a total of 97,742 rows and 13 dimensions. The data is split into two datasets:
 - **Training dataset:** 58,645 rows and 13 columns
 - **Test dataset:** 13 columns
 
