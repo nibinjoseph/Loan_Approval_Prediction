@@ -1,4 +1,4 @@
-# Loan_Approval_Prediction
+# Loan_Approval_Prediction_Python
 
 ## Objective
 The objective of this project is to develop a machine learning model that predicts the loan approval status for a customer's loan application. The goal is to help financial institutions minimize the risk of potential defaults and ensure that approved loans are more likely to be repaid.
