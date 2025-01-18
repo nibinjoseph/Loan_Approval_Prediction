@@ -27,7 +27,7 @@ The context of the problem required prioritizing the precision score as the prim
 The Random Forest model, with a precision score of 92%, aligns with the financial institution's objective of minimizing the approval of risky loans. This model effectively helps in predicting the loan approval status, thereby reducing the potential risk of defaults and improving the overall loan approval process.
 
 ## Acknowledgments
-Special thanks to Kaggle for providing the dataset used in this project. 
+Special thanks to my professor [Samiul Islam](https://www.linkedin.com/in/samiul-i-13b377165?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTkafq6xaTvqjg5e1G1wYGw%3D%3D) for the guidance in project report preparation
 
 ## Author
 - [Nibin Joseph](https://github.com/nibinjoseph)
